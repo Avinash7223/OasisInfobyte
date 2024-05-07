@@ -1,0 +1,3 @@
+# Oasis Infobyte Internship Details Repository
+
+This repository serves as a comprehensive archive of my internship experience at Oasis Infobyte. It contains detailed information regarding the internship program along with documentation for all three mini-projects that I completed during my time there. Each mini-project is meticulously documented, showcasing the work I contributed, the technologies utilized, and the outcomes achieved. This repository not only highlights my practical experience gained during the internship but also demonstrates my ability to effectively tackle real-world projects in a professional environment.
